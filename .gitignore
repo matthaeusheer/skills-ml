@@ -109,3 +109,6 @@ output/*
 missed.txt
 
 *.swp
+
+# pycharm
+.idea/
